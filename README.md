@@ -16,5 +16,5 @@ This application predicts medicinal leaf information based on images. It uses Re
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/Bhupanimounika22/Medicinal-leaf-predictor-app.git
-cd Medicinal-leaf-predictor-app
+git clone [https://github.com/umar7228/MedPlant_leaf_predictor_app.git]
+cd MedPlant_leaf_predictor_app
